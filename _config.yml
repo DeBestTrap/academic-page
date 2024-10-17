@@ -21,15 +21,15 @@ repository               : "academic-page/debesttrap.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "me.jpg"
   name             : "Tyler Chan"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning Researcher/Engineer"
   location         : "Troy NY"
   employer         : "Rensselear Polytechnic Institute"
   uri              : # URL
-  personal email            : "tyler@tylerchan.me" 
-  school email            : "chant7@rpi.edu" 
+  email            : "tyler@tylerchan.me" 
+  email            : "chant7@rpi.edu" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile

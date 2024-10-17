@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+👋 Hey! I'm Tyler, and I'm currently advancing my knowledge in machine learning and AI through the Accelerated Master's Program at Rensselaer Polytechnic Institute. My journey started as a Electrical Engineering major, but after taking my first Computer Science course, I was hooked. This led me to pursue a dual degree in Computer and Systems Engineering and Computer Science. Then, the cambrian explosion of generative models happened, and the potential of these models to create "creative" and "human-like" works led me to the field of machine learning and AI.
+
 While I haven’t published any papers just yet, stay tuned—updates will be coming soon!
 If you’d like to explore my personal projects, feel free to visit my [website](https://tylerchan.me), check out my work on [GitHub](https://github.com/DeBestTrap), or if you would like to see my [CV/Resume](https://tylerchan.me/resume.pdf).
 
